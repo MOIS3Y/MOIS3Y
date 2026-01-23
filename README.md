@@ -5,7 +5,7 @@
 pkgs.mkGitHubPage {
   name = "👤 Stepan Zhukovsky";
   profile = "👥 MOIS3Y";
-  age = "3️⃣ 4️⃣ fourth decade";
+  age = "3️⃣6️⃣ fourth decade";
   languages = [
     "🇷🇺 ru" 
     "🇺🇸 us"
